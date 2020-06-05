@@ -4,7 +4,7 @@ encoding: UTF-8
 
 [Hello everyone!](https://github.com/LaraEvdokimova/1st.github.io/blob/master/Lara.JPG?raw=true) (src)
 
-## Я Лара Евдокимова, Инженер по качеству программного обеспечения -- Software Development Engineer In Test в области Финансовых технологий FinTech [link](https://github.com/LaraEvdokimova/lara.cv/blob/master/Lara.JPG?raw=true)![](src)
+## Я Лара Евдокимова, Инженер по качеству программного обеспечения -- Software Development Engineer In Test в области Финансовых технологий FinTech 
 ### занимаюсь функциональным, интеграционным, регрессионным и End-to-End тестированием веб (Chrome/Chromium браузеры), 
 ### десктоп (MS Windows/MacOS) и мобильных приложений (Android/iOS -- люблю iPAD)
 # Работаю по гибкой методологии скрам SCRUM и икспи XP
@@ -39,8 +39,7 @@ encoding: UTF-8
 #### танцевать зумбу и хип-хоп; иду своим путём коалы, учу французский и польский языки -- люблю митапы.
 
 **люблю сарказм** and _яркое будущее_ and `насыщенное счастьем настоящее` text
-
-![Lara.jpg](src)
 ```
 
 For more details see [GitHub](https://github.com/LaraEvdokimova)
+[link](https://github.com/LaraEvdokimova/first.github.io/Lara.JPG)![](src)
