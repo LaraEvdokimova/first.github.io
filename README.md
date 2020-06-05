@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-tactile
 
-You can use the [editor on GitHub](https://github.com/LaraEvdokimova/first.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+encoding: UTF-8
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Hello everyone!](https://github.com/LaraEvdokimova/1st.github.io/blob/master/Lara.JPG?raw=true) (src)
 
-### Markdown
+## Я Лара Евдокимова, Инженер по качеству программного обеспечения -- Software Development Engineer In Test в области Финансовых технологий FinTech [link](https://github.com/LaraEvdokimova/lara.cv/blob/master/Lara.JPG?raw=true)![](src)
+### занимаюсь функциональным, интеграционным, регрессионным и End-to-End тестированием веб (Chrome/Chromium браузеры), 
+### десктоп (MS Windows/MacOS) и мобильных приложений (Android/iOS -- люблю iPAD)
+# Работаю по гибкой методологии скрам SCRUM и икспи XP
+## Обеспечиваю анализ требований по спецификации
+### Изучаю продукт с нуля и пишу условные скрипты на сиквеле SQL
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Обсуждаю паттерны
+- Техники тест-дизайна
+- TDD, DDD, BDD
 
-```markdown
-Syntax highlighted code block
+1. Мои рутинные обязанности включают креативность, типа написания тестовых сценариев и подготовки тест-плана, а также 
+участие в планировании бэклога, поиску решений, ретроспективе и груминге фич.
+2. Помимо подготовки тестовых данных для проведения тестирования и работы по поиску дефектов как Bug Bounty, 
+я веду тестовую документацию и отчётность по покрытию тестами нашего исходного кода при выполнении тестовых сценариев и 
+жизненному циклу обнаруженных багов и плавающих гейзенбагов.
 
-# Header 1
-## Header 2
-### Header 3
+**TESTER** and _Quality Assurance and `Code` Domain driven development
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 80% рабочего времени занимает обдумывание и написание тест-кейсов в HP ALM, обсуждение с командой, и 20% работа в среде:
 
-**Bold** and _Italic_ and `Code` text
+•	ORACLE, SQL Developer
 
-[Link](url) and ![Image](src)
+•	Apache Tomcat, Kafka, Jenkins, Postman, Oracle DB,  HP ALM,  Atlassian Jira, Confluence, BitBucket
+
+•	Java, Java EE, Spring, REST API, SOAP API
+
+### Работаю в известных айти-компаниях --> [First Line Software_](https://firstlinesoftware.com/) 1st и [EPAM](https://www.epam.com/)
+### Call us and we will help you sort it out!
+
+#### У меня свободный английский и любимые хобби: изучать C#, Java, Golang; делать растяжку, петь под YouTube; 
+#### танцевать зумбу и хип-хоп; иду своим путём коалы, учу французский и польский языки -- люблю митапы.
+
+**люблю сарказм** and _яркое будущее_ and `насыщенное счастьем настоящее` text
+
+![Lara.jpg](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LaraEvdokimova/first.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [GitHub](https://github.com/LaraEvdokimova)
