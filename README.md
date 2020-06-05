@@ -2,7 +2,7 @@ theme: jekyll-theme-tactile
 
 encoding: UTF-8
 
-[Hello everyone!](https://github.com/LaraEvdokimova/1st.github.io/blob/master/Lara.JPG?raw=true) (src)
+[Hello everyone!](https://github.com/LaraEvdokimova/1st.github.io/blob/master/Lara.JPG?raw=true)(src)
 
 ## Я Лара Евдокимова, Инженер по качеству программного обеспечения -- Software Development Engineer In Test в области Финансовых технологий FinTech 
 ### занимаюсь функциональным, интеграционным, регрессионным и End-to-End тестированием веб (Chrome/Chromium браузеры), 
@@ -38,8 +38,6 @@ encoding: UTF-8
 #### У меня свободный английский и любимые хобби: изучать C#, Java, Golang; делать растяжку, петь под YouTube; 
 #### танцевать зумбу и хип-хоп; иду своим путём коалы, учу французский и польский языки -- люблю митапы.
 
-**люблю сарказм** and _яркое будущее_ and `насыщенное счастьем настоящее` text
+**люблю сарказм** & _яркое будущее_ & `насыщенное счастьем настоящее` 
 ```
-
-For more details see [GitHub](https://github.com/LaraEvdokimova)
-[link](https://github.com/LaraEvdokimova/first.github.io/Lara.JPG)![](src)
+For more details see [GitHub](https://github.com/LaraEvdokimova)![](src)
